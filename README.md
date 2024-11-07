@@ -1,2 +1,2 @@
-# ProjetoFerramentasPIUnivesp
-Nosso projeto PI - Univesp
+# ProjetoGestaoPIUnivesp
+Nosso projeto PI (Projeto Integrador 2) - Univesp
